@@ -9,7 +9,7 @@
 
 - 📝 I regularly do TryHackMe CTF [https://tryhackme.com/p/P2ACO](https://tryhackme.com/p/P2ACO)
 
-- 📫 How to reach me **theotruvelott@gmail.com**
+- 📫 How to reach me **contact@theotruvelot.fr**
 
 - ⚡ Fun fact **I'm Top 1% World at TryHackMe**
 
