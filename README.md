@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=p2acoo&label=Profile%20views&color=0e75b6&style=flat" alt="p2acoo" /> </p>
 
-- 🔭 I’m currently working on [Uber Eat OpenSource](https://github.com/goodfoodcesi)
+- 🔭 I’m currently working on [Uber Eats OpenSource](https://github.com/goodfoodcesi)
 
 - 🌱 I’m currently learning **at CESI ROUEN**
 
